@@ -1,2 +1,2 @@
 # hello-world
-We're practice
+Deneme 1 2 3
